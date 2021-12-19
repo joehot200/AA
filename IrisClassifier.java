@@ -39,7 +39,7 @@ public class IrisClassifier extends JavaPlugin{
     public void onEnable() {
     	//In Minecraft, this method replaces "public static void main(String[] args)".
     	try {
-			new IrisClassifier().irisMinecraft();
+			irisMinecraft();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
