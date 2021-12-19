@@ -29,6 +29,7 @@ import org.slf4j.LoggerFactory;
 import java.io.File;
 
 /**
+ * Taken from IrisClassifier by:
  * @author Adam Gibson
  */
 public class IrisClassifier extends JavaPlugin{
